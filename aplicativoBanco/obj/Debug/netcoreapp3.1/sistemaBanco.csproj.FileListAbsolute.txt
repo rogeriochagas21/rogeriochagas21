@@ -1,0 +1,14 @@
+C:\Users\roger\OneDrive\Documentos\1500 - DevWeb\LP\aplicativoBanco\bin\Debug\netcoreapp3.1\sistemaBanco.exe
+C:\Users\roger\OneDrive\Documentos\1500 - DevWeb\LP\aplicativoBanco\bin\Debug\netcoreapp3.1\sistemaBanco.deps.json
+C:\Users\roger\OneDrive\Documentos\1500 - DevWeb\LP\aplicativoBanco\bin\Debug\netcoreapp3.1\sistemaBanco.runtimeconfig.json
+C:\Users\roger\OneDrive\Documentos\1500 - DevWeb\LP\aplicativoBanco\bin\Debug\netcoreapp3.1\sistemaBanco.runtimeconfig.dev.json
+C:\Users\roger\OneDrive\Documentos\1500 - DevWeb\LP\aplicativoBanco\bin\Debug\netcoreapp3.1\sistemaBanco.dll
+C:\Users\roger\OneDrive\Documentos\1500 - DevWeb\LP\aplicativoBanco\bin\Debug\netcoreapp3.1\sistemaBanco.pdb
+C:\Users\roger\OneDrive\Documentos\1500 - DevWeb\LP\aplicativoBanco\obj\Debug\netcoreapp3.1\sistemaBanco.csproj.AssemblyReference.cache
+C:\Users\roger\OneDrive\Documentos\1500 - DevWeb\LP\aplicativoBanco\obj\Debug\netcoreapp3.1\sistemaBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\OneDrive\Documentos\1500 - DevWeb\LP\aplicativoBanco\obj\Debug\netcoreapp3.1\sistemaBanco.AssemblyInfoInputs.cache
+C:\Users\roger\OneDrive\Documentos\1500 - DevWeb\LP\aplicativoBanco\obj\Debug\netcoreapp3.1\sistemaBanco.AssemblyInfo.cs
+C:\Users\roger\OneDrive\Documentos\1500 - DevWeb\LP\aplicativoBanco\obj\Debug\netcoreapp3.1\sistemaBanco.csproj.CoreCompileInputs.cache
+C:\Users\roger\OneDrive\Documentos\1500 - DevWeb\LP\aplicativoBanco\obj\Debug\netcoreapp3.1\sistemaBanco.dll
+C:\Users\roger\OneDrive\Documentos\1500 - DevWeb\LP\aplicativoBanco\obj\Debug\netcoreapp3.1\sistemaBanco.pdb
+C:\Users\roger\OneDrive\Documentos\1500 - DevWeb\LP\aplicativoBanco\obj\Debug\netcoreapp3.1\sistemaBanco.genruntimeconfig.cache
